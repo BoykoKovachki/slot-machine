@@ -25,7 +25,7 @@ NoWinBet - Slot Machine
 ## Authors
 
 Boyko Kovachki 
-[GitHub](https://mygithub/repoHere)
+[GitHub](https://github.com/BoykoKovachki/slot-machine.git)
 
 ## License
 
